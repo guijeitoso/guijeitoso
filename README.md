@@ -16,7 +16,7 @@ Estudante do Proa e apaixonado(a) por tecnologia.
 
 - 
 ### 📊 GitHub Stats
- <div
+ <div>
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=professorobama&theme=gotham" width="33%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=professorobama&theme=… width="33%" />
