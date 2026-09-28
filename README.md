@@ -24,7 +24,6 @@ Não curto ficar só na teoria. Gosto de pegar o que aprendi, colocar a mão na 
 
 - 🚦 Simulador web de semáforos inteligentes com visão computacional (projeto do Demo Day)
 - 🐍 Aprofundando Python e SQL
-- ☕ Explorando o ecossistema Java
 
 ## 🛠️ Tecnologias
 
@@ -59,7 +58,7 @@ Não curto ficar só na teoria. Gosto de pegar o que aprendi, colocar a mão na 
 
 ## 🎯 Interesses
 
-`Back-End` `Análise de Dados` `Hardware` `Arquitetura de Computadores` `Engenharia de Computação`
+`Back-End` `Hardware` `Arquitetura de Computadores` `Engenharia de Computação`
 
 ## 🤝 Vamos conversar?
 
@@ -67,7 +66,7 @@ Estou sempre aberto a trocar ideias sobre tecnologia, aprender com quem já est�
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermesz1/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](guihermesouza369@gmail.com)
 
 </div>
