@@ -77,8 +77,3 @@ Não curto ficar só na teoria. Gosto de pegar o que aprendi, colocar a mão na 
 
 `Back-End` `Hardware` `Arquitetura de Computadores` `Engenharia de Computação`
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermesz1/)
-
-</div>
