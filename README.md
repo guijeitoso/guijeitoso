@@ -53,7 +53,16 @@ Não curto ficar só na teoria. Gosto de pegar o que aprendi, colocar a mão na 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermeszandrade&theme=tokyo-night&hide_border=true" />
   
-  
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guijeitoso/guijeitoso/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guijeitoso/guijeitoso/output/github-snake.svg" />
+  <img alt="Cobrinha comendo minhas contribuições" src="https://raw.githubusercontent.com/guijeitoso/guijeitoso/output/github-snake-dark.svg" />
+</picture>
+
 </div>
 
 ## 🎯 Interesses
