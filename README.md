@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Back-End+%7C+Python+%7C+SQL;Explorando+o+ecossistema+Java;Apaixonado+por+Hardware+e+Arquitetura;Colocando+a+m%C3%A3o+na+massa+todo+dia" alt="Typing SVG" />
 
-![Visitas](https://komarev.com/ghpvc/?username=guijeitoso&label=Visitas&color=0e75b6&style=flat)
+![Visitas](https://komarev.com/ghpvc/?username=guilhermeszandrade&label=Visitas&color=0e75b6&style=flat)
 
 </div>
 
@@ -46,12 +46,12 @@ Não curto ficar só na teoria. Gosto de pegar o que aprendi, colocar a mão na 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=guijeitoso&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guijeitoso&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=guilhermeszandrade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeszandrade&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<img src="https://streak-stats.demolab.com?user=guijeitoso&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=guilhermeszandrade&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=guijeitoso&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermeszandrade&theme=tokyo-night&hide_border=true" />
   
   
 </div>
