@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, me chamo Guilherme 👋
 
-<!--
-**guijeitoso/guijeitoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de [curso] e apaixonado(a) por tecnologia.
 
-Here are some ideas to get you started:
+## 🔭 Trabalhando em
+- Projeto X: descrição curta
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+## 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/guilhermesz1/)
+- Email: guihermesouza369@gmail.com
