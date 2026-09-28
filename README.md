@@ -52,8 +52,7 @@ Não curto ficar só na teoria. Gosto de pegar o que aprendi, colocar a mão na 
 <img src="https://streak-stats.demolab.com?user=guijeitoso&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=guijeitoso&theme=tokyo-night&hide_border=true" />
-
-src="buraco-negro.svg"
+  
 <div align="center">
   <img src="assets/buraco-negro.svg" width="100%" alt="Buraco negro animado" />
 </div>
