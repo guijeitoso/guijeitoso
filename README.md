@@ -60,10 +60,6 @@ Não curto ficar só na teoria. Gosto de pegar o que aprendi, colocar a mão na 
 
 `Back-End` `Hardware` `Arquitetura de Computadores` `Engenharia de Computação`
 
-## 🤝 Vamos conversar?
-
-Estou sempre aberto a trocar ideias sobre tecnologia, aprender com quem já está mais à frente e conhecer novas oportunidades na área de TI. Chama pra bater um papo!
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermesz1/)
