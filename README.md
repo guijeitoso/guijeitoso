@@ -1,6 +1,6 @@
 # Olá, me chamo Guilherme 👋
 
-Estudante de [curso] e apaixonado(a) por tecnologia.
+Estudante do Proa e apaixonado(a) por tecnologia.
 
 ## 🔭 Trabalhando em
 - Projeto X: descrição curta
