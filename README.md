@@ -2,11 +2,11 @@
 
 # Olá, me chamo Guilherme 👋
 
-**Estudante de Tecnologia | Back-End • Análise de Dados • Hardware**
+**Estudante de Tecnologia | Back-End • Hardware**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Back-End+%7C+Python+%7C+SQL;Explorando+o+ecossistema+Java;Apaixonado+por+Hardware+e+Arquitetura;Colocando+a+m%C3%A3o+na+massa+todo+dia" alt="Typing SVG" />
 
-![Visitas](https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Visitas&color=0e75b6&style=flat)
+![Visitas](https://komarev.com/ghpvc/?username=guijeitoso&label=Visitas&color=0e75b6&style=flat)
 
 </div>
 
@@ -14,9 +14,9 @@
 
 ## 👨‍💻 Sobre mim
 
-Estudante de Tecnologia no **Proa**, com a cabeça focada em **Back-End**, **Análise de Dados** e **Hardware**.
+Estudante de Tecnologia no **Proa**, com a cabeça focada em **Back-End** e **Hardware**.
 
-No momento, estou mergulhado em **Python** e **SQL**, dando uma explorada no ecossistema **Java** e brincando com desenvolvimento Web responsivo (HTML5/CSS3). Tenho também uma paixão meio antiga por Hardware e Engenharia de Computação: adoro entender o que tem por trás da tela, das specs técnicas até a arquitetura dos sistemas.
+No momento, estou mergulhado em **Python** e **SQL** e brincando com desenvolvimento Web responsivo (HTML5/CSS3). Tenho também uma paixão meio antiga por Hardware e Engenharia de Computação: adoro entender o que tem por trás da tela, das specs técnicas até a arquitetura dos sistemas.
 
 Não curto ficar só na teoria. Gosto de pegar o que aprendi, colocar a mão na massa e ver se realmente funciona (spoiler: nem sempre funciona de primeira, e tá tudo bem). É assim que o aprendizado gruda de verdade.
 
