@@ -28,6 +28,10 @@ No momento, estou mergulhado em **Python** e **SQL** e brincando com desenvolvim
 
 Não curto ficar só na teoria. Gosto de pegar o que aprendi, colocar a mão na massa e ver se realmente funciona (spoiler: nem sempre funciona de primeira, e tá tudo bem). É assim que o aprendizado gruda de verdade.
 
+## 🎯 Interesses
+
+`Back-End` `Hardware` `Arquitetura de Computadores` `Engenharia de Computação`
+
 ## 🔭 Trabalhando em
 
 - 🚦 Simulador web de semáforos inteligentes com visão computacional (projeto do Demo Day)
@@ -72,8 +76,3 @@ Não curto ficar só na teoria. Gosto de pegar o que aprendi, colocar a mão na 
 </picture>
 
 </div>
-
-## 🎯 Interesses
-
-`Back-End` `Hardware` `Arquitetura de Computadores` `Engenharia de Computação`
-
