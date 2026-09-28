@@ -53,6 +53,9 @@ Não curto ficar só na teoria. Gosto de pegar o que aprendi, colocar a mão na 
 <img src="https://streak-stats.demolab.com?user=guijeitoso&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=guijeitoso&theme=tokyo-night&hide_border=true" />
+<div align="center">
+  <img src="assets/buraco-negro.gif" width="500" alt="Buraco negro girando" />
+</div>
 
 </div>
 
