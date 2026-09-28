@@ -49,9 +49,7 @@ Não curto ficar só na teoria. Gosto de pegar o que aprendi, colocar a mão na 
 
 <p align="center">
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guijeitoso&theme=gotham" width="33%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guijeitoso&theme=gotham" width="33%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=guijeitoso&theme=gotham" width="33%" />
+
 </p>
 
 <p align="center">
