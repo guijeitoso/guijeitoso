@@ -53,11 +53,7 @@ Não curto ficar só na teoria. Gosto de pegar o que aprendi, colocar a mão na 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=guijeitoso&theme=tokyo-night&hide_border=true" />
   
-<div align="center">
-  <img src="assets/buraco-negro.svg" width="100%" alt="Buraco negro animado" />
-</div>
-
-
+  
 </div>
 
 ## 🎯 Interesses
