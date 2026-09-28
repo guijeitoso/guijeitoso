@@ -13,3 +13,18 @@ Estudante do Proa e apaixonado(a) por tecnologia.
 ## 📫 Contato
 - [LinkedIn](https://www.linkedin.com/in/guilhermesz1/)
 - Email: guihermesouza369@gmail.com
+
+- 
+### 📊 GitHub Stats
+ 
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=professorobama&theme=gotham" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=professorobama&theme=… width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=professorobama&theme=got… width="33%" />
+</p>
+ 
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=professorobama&theme=got… width="100%" />
+</p>
+
+ 
