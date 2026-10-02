@@ -34,7 +34,6 @@ Não curto ficar só na teoria. Gosto de pegar o que aprendi, colocar a mão na 
 
 ## 🔭 Trabalhando em
 
-- 🚦 Simulador web de semáforos inteligentes com visão computacional (projeto do Demo Day)
 - 🐍 Aprofundando Python e SQL
 
 ## 🛠️ Tecnologias
